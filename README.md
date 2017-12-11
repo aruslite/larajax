@@ -1,0 +1,2 @@
+# larajax
+laravel ajax
